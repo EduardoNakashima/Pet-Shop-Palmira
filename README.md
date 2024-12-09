@@ -1,2 +1,2 @@
 # Pet-Shop-Palmira
-Site do comércio Pet shop Palmira
+Criação do site para o comércio Pet shop Palmira
